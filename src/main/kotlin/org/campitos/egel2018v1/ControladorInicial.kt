@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController
 class ControladorInicial{
 
     @GetMapping("/hola")
-fun hola()="hola mundo malo"
+fun hola()="hola mundo malodd"
 
 
 
